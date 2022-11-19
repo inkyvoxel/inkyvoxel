@@ -1,4 +1,7 @@
-- 👋 Hi, I’m @inkyvoxel. I love video games, writing code, and creating goofy art.
+Hi, I’m @inkyvoxel. 👋
+
+I love writing code and creating goofy art.
+
 - 🌐 https://www.inkyvoxel.com
 - 🦣 https://ruby.social/@inkyvoxel
 - 🎮 https://twitch.tv/inkyvoxel
