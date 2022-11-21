@@ -3,7 +3,7 @@ Hi, I’m @inkyvoxel. 👋
 I love writing code and creating goofy art.
 
 - 🌐 https://www.inkyvoxel.com
-- 🦣 https://ruby.social/@inkyvoxel
+- 🦣 <a rel="me" href="https://ruby.social/@inkyvoxel">https://ruby.social/@inkyvoxel</a>
 - 📺 https://twitch.tv/inkyvoxel
 
 <!---
