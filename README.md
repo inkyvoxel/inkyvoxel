@@ -2,9 +2,10 @@ Hi, I’m @inkyvoxel. 👋
 
 I love writing code and creating goofy art.
 
-- 🌐 https://www.inkyvoxel.com
-- 🦣 <a rel="me" href="https://ruby.social/@inkyvoxel">https://ruby.social/@inkyvoxel</a>
-- 📺 https://twitch.tv/inkyvoxel
+- 🌐 Website: https://www.inkyvoxel.com
+- 🦣 Mastodon: https://ruby.social/@inkyvoxel
+- 📺 Twitch: https://twitch.tv/inkyvoxel
+- 🧑‍💻 TryHackMe: https://tryhackme.com/p/inkyvoxel
 
 <!---
 inkyvoxel/inkyvoxel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
