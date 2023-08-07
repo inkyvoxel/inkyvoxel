@@ -3,7 +3,6 @@ Hi, I’m @inkyvoxel. 👋
 I love writing code and creating goofy art.
 
 - 🌐 Website: https://www.inkyvoxel.com
-- 🦣 Mastodon: https://infosec.exchange/@inkyvoxel
 - 📺 Twitch: https://twitch.tv/inkyvoxel
 - 🧑‍💻 TryHackMe: https://tryhackme.com/p/inkyvoxel
 
